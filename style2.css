@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    background-color : #F7ECDE;
+}
+
+#all{
+    margin-left:500px;
+    padding: 50px;
+}
+.xd{
+    background: #E9DAC1; 
+    padding:10px;
+    text-align: center;
+}
+.heading{
+    background: #E9DAC1; 
+    padding:10px;
+}

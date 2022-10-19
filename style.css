@@ -1,0 +1,128 @@
+body{
+    margin:0;
+    background-color : #F7ECDE;
+}
+
+#links{
+    background: #E9DAC1; 
+    padding:10px;
+}
+
+#links ul
+{
+    text-align : right;
+   list-style-type: none; 
+   margin-right:10px;
+}
+#links li
+{
+    margin-left:15px;
+    display:inline-block;
+}
+
+#links a{
+    background-color: #42032C;
+    padding:8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: wheat;
+    border-radius: 10px;
+    border:2px solid white;
+    
+}
+#links a:hover{
+    background-color: #781C68;
+    padding:10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #F7ECDE;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 1px white;
+   
+}
+#profilepic img{
+    display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid black;
+  position: relative;
+  bottom:20px;
+}
+
+#personalinfo{
+    
+    line-height: 10px;
+   text-align:center;
+}
+#resume{
+    text-align:center;
+}
+#resume a{
+   margin:5px;
+    background-color: #42032C;
+    padding:8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: wheat;
+    border-radius: 10px;
+    border:3px solid white;
+}
+#resume a:hover{
+    margin:5px;
+    background-color: #781C68;
+    padding:10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #F7ECDE;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 1px white;
+}
+
+.pic{
+    height:70px; 
+    width:auto;
+    position:relative;
+    bottom:70px;
+}
+
+#socials ul
+{
+    text-align : right;
+   list-style-type: none; 
+   margin-right:40px;
+   position:relative;
+   top:60px;
+}
+#socials li{
+    margin-left:15px;
+    text-align:center;
+    display:inline-block;
+}
+#socials h3{
+  position: relative;
+  bottom:10px;
+}
+
+.twi{
+    position: relative;
+    top:5px;
+}
+
+#description{
+    background-color: #E9DAC1;
+    margin:15px;
+    padding:10px;
+}
+
+.project{
+    margin: 5%;
+    border: 3px solid #EE6983;
+}
+
+.project_body{
+    align-content: center;
+    background-color: #B9FFF8;
+}
+.project_body h2{
+    margin-left: 550px;
+}
